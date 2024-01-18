@@ -1,0 +1,1 @@
+c++ -std=c++17 -o main main.cpp -lboost_system -lboost_thread -lpthread
